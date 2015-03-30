@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6751" systemVersion="14C109" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="StyleEntity" representedClassName="StyleEntity" syncable="YES">
+        <attribute name="buttonColor" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="buttonCornerRadius" optional="YES" attributeType="Float" defaultValueString="0" syncable="YES"/>
+        <attribute name="buttonHeight" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="buttonTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="buttonWidth" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="imageBorderColor" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageBorderWidth" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="imageCornerRadius" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="imageHeight" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="imagePath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageRotation" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="imageUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageWidth" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="styleIndex" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="StyleEntity" positionX="-63" positionY="-18" width="128" height="255"/>
+    </elements>
+</model>
